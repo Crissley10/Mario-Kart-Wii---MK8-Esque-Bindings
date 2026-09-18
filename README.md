@@ -10,13 +10,15 @@ BUTTON INSTEAD TO CYCLE THROUGH COSTUMES.
 
 FOR USE WITH Dolphin:
 
-Select & Cut your 'mario kart wii.ini' file from the 'GCPad' folder (GameCube Controller bindings) or 'Wiimote' folder (Pro/Classic Controller bindings). You can do both if you want.
-Navigate to your Dolphin 'User Folder'. Usually located on your C: drive separate from Dolphin's executable's folder (tends to usually be either %userprofile%/Documents/Dolphin Emulator/ or on newer versions, %appdata%/Dolphin Emulator/). It can also be accessed through Dolphin itself in the 'File' tab, click 'Open User Folder'.
-Open the 'Config' folder, then open the 'Profiles' folder, and then...
+1. Select & Cut your 'mario kart wii.ini' file from the 'GCPad' folder (GameCube Controller bindings) or 'Wiimote' folder (Pro/Classic Controller bindings). You can do both if you want.
 
-  a (GCPad). Open the 'GCPad' folder and paste the 'mario kart wii.ini' into that folder. You can now select and load these bindings in the Configuration menu of Dolphin's 'Controllers' settings and enjoy gaming!
+2. Navigate to your Dolphin 'User Folder'. Usually located on your C: drive separate from Dolphin's executable's folder (tends to usually be either %userprofile%/Documents/Dolphin Emulator/ or on newer versions, %appdata%/Dolphin Emulator/). It can also be accessed through Dolphin itself in the 'File' tab, click 'Open User Folder'.
 
-  b (Wiimote). Open the 'Wiimote' folder and paste the 'mario kart wii.ini' into that folder. You can now select and load these bindings in the Configuration menu of Dolphin's 'Controllers' settings and enjoy gaming!
+3. Open the 'Config' folder, then open the 'Profiles' folder, and then...
+
+	a (GCPad). Open the 'GCPad' folder and paste the 'mario kart wii.ini' into that folder. You can now select and load these bindings in the Configuration menu of Dolphin's 'Controllers' settings and enjoy gaming!
+
+	b (Wiimote). Open the 'Wiimote' folder and paste the 'mario kart wii.ini' into that folder. You can now select and load these bindings in the Configuration menu of Dolphin's 'Controllers' settings and enjoy gaming!
 
 
 FOR USE WITH Wiicompiled w/ Retro Rewind:
