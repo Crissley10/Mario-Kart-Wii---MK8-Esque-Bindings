@@ -23,7 +23,7 @@ FOR USE WITH Dolphin:
 
 FOR USE WITH Wiicompiled w/ Retro Rewind:
 
-Make sure you have Retro Rewind installed in Wheel Wizard.
+1. Make sure you have Retro Rewind installed in Wheel Wizard.
 
 2. (Optional but kind of IMPORTANT) Make a copy of the provided 'GCPadNew.ini' from the 'RetroRewind' folder and keep the copy somewhere secure. HIGHLY RECOMMENDED because it seems that each time Wiicompiled updates, this file gets completely scraped from the files! It's good to have a backup replacement.
 
