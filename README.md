@@ -7,6 +7,8 @@ AVOID PRESSING R OR ZR/RT/R2 BUTTONS AS THEY'RE
 ASSIGNED TO THE NEUTRAL JUMP/TRICK. USE THE L
 BUTTON INSTEAD TO CYCLE THROUGH COSTUMES.
 
+[![Video Showcase](https://img.youtube.com/vi/9sgguOPo0ew/maxresdefault.jpg)](https://youtu.be/9sgguOPo0ew)
+
 You can download Wheel Wizard (Wiicompiled w/ Retro Rewind) [here](https://github.com/TeamWheelWizard/WheelWizard/releases).
 
 FOR USE WITH Dolphin:
