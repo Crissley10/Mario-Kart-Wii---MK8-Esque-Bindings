@@ -10,9 +10,9 @@ BUTTON INSTEAD TO CYCLE THROUGH COSTUMES.
 Video Showcase:
 [![Video Showcase](https://img.youtube.com/vi/9sgguOPo0ew/maxresdefault.jpg)](https://youtu.be/9sgguOPo0ew)
 
-You can download MK8/MK8D Controller Bindings for MKWii [here](https://github.com/Crissley10/Mario-Kart-Wii---MK8-Esque-Bindings/releases).
+Download MK8/MK8D Controller Bindings for MKWii [here](https://github.com/Crissley10/Mario-Kart-Wii---MK8-Esque-Bindings/releases).
 
-You can download Wheel Wizard (Wiicompiled w/ Retro Rewind) [here](https://github.com/TeamWheelWizard/WheelWizard/releases).
+Download Wheel Wizard (Wiicompiled w/ Retro Rewind) [here](https://github.com/TeamWheelWizard/WheelWizard/releases).
 
 FOR USE WITH Dolphin:
 
